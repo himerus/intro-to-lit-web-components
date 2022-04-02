@@ -15,13 +15,13 @@
   "fontSize": "14px",
   "lineHeight": "133%",
   "windowControls": true,
-  "widthAdjustment": true,
+  "widthAdjustment": false,
   "lineNumbers": false,
   "firstLineNumber": 1,
-  "exportSize": "1x",
+  "exportSize": "4x",
   "watermark": false,
   "squaredImage": false,
   "hiddenCharacters": false,
   "name": "",
-  "width": "680"
+  "width": "650"
 }
