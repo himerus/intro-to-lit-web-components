@@ -1,3 +1,7 @@
 render(): TemplateResult {
-  return html`${this.linkHref ? html`` : html``}`;
+  return 
+      html`${this.linkHref 
+    ? html`` 
+    : html``
+  }`;
 }
