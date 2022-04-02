@@ -1,6 +1,6 @@
 # Getting Started with Lit2 Web Components
 
-> The following set of code & links represents the samples posted alongside the article titled **Getting Started with Lit2 Web Components** on the [Phase2 Technology Blog](https://www.phase2technology.com/insights).
+> The following set of code & links represents the samples posted alongside the article titled **Getting Started with Lit2 Web Components** on the [Phase2 Technology Blog](https://www.phase2technology.com/insights). Links here will be updated with actual links after post is publicly avaiable.
 
 - In the `carbon-config.json` file, you will find the exact configurations used for screenshots at [carbon.now.sh](https://carbon.now.sh/)
 
